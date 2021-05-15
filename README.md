@@ -6,6 +6,6 @@
 
 ## About
 * pothole detector using [YOLOv5](https://github.com/ultralytics/yolov5) 
-* use roboflow dataset [link]((https://public.roboflow.com/object-detection/pothole))
+* use roboflow dataset [link](https://public.roboflow.com/object-detection/pothole)
 
 
